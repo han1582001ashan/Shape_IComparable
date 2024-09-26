@@ -1,0 +1,14 @@
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Shape_IComparable\bin\Debug\net8.0\Shape_IComparable.exe
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Shape_IComparable\bin\Debug\net8.0\Shape_IComparable.deps.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Shape_IComparable\bin\Debug\net8.0\Shape_IComparable.runtimeconfig.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Shape_IComparable\bin\Debug\net8.0\Shape_IComparable.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Shape_IComparable\bin\Debug\net8.0\Shape_IComparable.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Shape_IComparable\obj\Debug\net8.0\Shape_IComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Shape_IComparable\obj\Debug\net8.0\Shape_IComparable.AssemblyInfoInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Shape_IComparable\obj\Debug\net8.0\Shape_IComparable.AssemblyInfo.cs
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Shape_IComparable\obj\Debug\net8.0\Shape_IComparable.csproj.CoreCompileInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Shape_IComparable\obj\Debug\net8.0\Shape_IComparable.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Shape_IComparable\obj\Debug\net8.0\refint\Shape_IComparable.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Shape_IComparable\obj\Debug\net8.0\Shape_IComparable.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Shape_IComparable\obj\Debug\net8.0\Shape_IComparable.genruntimeconfig.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Shape_IComparable\obj\Debug\net8.0\ref\Shape_IComparable.dll
